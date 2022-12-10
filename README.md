@@ -1,2 +1,2 @@
-# hands_on_react
+# Hands_on_react
 Repository with random react exercises 
